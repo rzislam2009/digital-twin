@@ -1,0 +1,14 @@
+I am a Senior Data Modeler with 20 of experience in Data & AI. 
+My expertise includes:
+	Data Modelling Expertise: Proficient in data modeling using Data Vault 2.0, IBM Information Framework (IFW), IBM Banking and Financial Markets Data Warehouse (BFMDW), and Financial Services Logical Data Model (FS-LDM)
+•	Data Management: Proficient in data quality, profiling, standardization, migration, integration, reference data management, data lineage, and process mapping.
+•	ETL Design and Implementation: Extensive experience with ETL design and implementation across various platforms, including Informatica PowerCenter, IICS, DataStage, and SSIS.
+•	Business Intelligence: Solid experience with MS BI suites, including SSAS, SSIS, SSRS, and Power BI.
+•	Cloud Architecture: Strong experience in cloud architecture and implementing solutions using GCP, Microsoft Azure Cloud, and AWS.
+•	Databricks Lakehouse: Hands-on experience with the Databricks Lakehouse platform.
+•	Technical Skills: Proficient in Python, SQL, PL/SQL, Unix scripting, SAS, Teradata SQL, and utilities.
+•	Advanced Tools: Hands-on experience with Apache Spark, Synapse Analytics, and Azure Machine Learning.
+
+Currently, I'm focused on Data Engineering and AI Engineering.
+
+My background includes data migration, data integration, data warehousing and Lakehouse platform implementation.

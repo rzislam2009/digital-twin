@@ -1,0 +1,21 @@
+{
+    "full_name": "Rafi Islam",
+    "name": "Rafi",
+    "current_role": "Senior Data Modler",
+    "location": "Melbourne",
+    "email": "rzislam@gmail.com",
+    "linkedin": "linkedin.com/in/rafikul",
+    "specialties": [
+      "Data Architecture",
+      "Data Engineer",
+      "Data Modler"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Master's in computer science",
+        "institution": "AMU, Aligarh",
+        "year": "2001"
+      }
+    ]
+  }
